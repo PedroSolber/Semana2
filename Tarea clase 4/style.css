@@ -1,0 +1,84 @@
+/*Primero poner los dias con negrita y aumento su tamaño*/
+#destacar {
+    font-size: 150%;
+    font-style: bold;
+    color: aqua;
+}
+
+/*Las clases son para darle el color a la fila y de paso centre los textos*/
+.clase {
+    color: aqua;
+    text-align: center;
+}
+
+#destacar1 {
+    font-size: 150%;
+    font-style: bold;
+    color: blue;
+}
+
+.clase1 {
+    color: blue;
+    text-align: center;
+}
+
+#destacar2 {
+    font-size: 150%;
+    font-style: bold;
+    color: red;
+}
+
+.clase2 {
+    color: red;
+    text-align: center;
+}
+
+#destacar3 {
+    font-size: 150%;
+    font-style: bold;
+    color: yellow;
+}
+
+.clase3 {
+    color: yellow;
+    text-align: center;
+}
+
+#destacar4 {
+    font-size: 150%;
+    font-style: bold;
+    color: green;
+}
+
+.clase4 {
+    color: green;
+    text-align: center;
+}
+
+#destacar5 {
+    font-size: 150%;
+    font-style: bold;
+    color: brown;
+}
+
+.clase5 {
+    color: brown;
+    text-align: center;
+
+}
+
+#destacar6 {
+    font-size: 150%;
+    font-style: bold;
+    color: violet;
+}
+
+.clase6 {
+    color: violet;
+    text-align: center;
+}
+
+/*Le doy el estilo cursiva a la columna de Horarios*/
+.clase1 {
+    font-style: italic;
+}
