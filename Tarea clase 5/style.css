@@ -1,0 +1,28 @@
+.fin1 {
+    background-color: skyblue;
+    background-size: cover;
+}
+
+div {
+    width: 100%;
+    height: 150%;
+}
+
+.fin2 {
+    background-color: steelblue;
+    background-size: cover;
+}
+
+/*Fondo asignado al Footer*/
+footer {
+    background-size: cover;
+    height: 50%;
+    width: 100%;
+}
+
+/*Borde del formulario*/
+.fin3 {
+    border: "2";
+    border-color: blue;
+    border-width: solid;
+}
