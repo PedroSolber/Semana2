@@ -1,0 +1,63 @@
+/*En esta tarea solo puse el index y contacto*/
+.navegador {
+    background-color: rgba(96, 96, 230, 0.247);
+    background-size: cover;
+}
+
+.posicion {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 0%;
+}
+
+.cuerpo {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.cuerpo1 {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(165, 158, 231);
+    display: flex;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.cuerpo2 {
+    margin-bottom: 0%;
+    padding-top: 5%;
+}
+
+/*No me salio acomodar esteticamente los botones de Ws y Gmail (Redes Sociales ) junto con los de Bootstrap*/
+.pie1 {
+    background-color: rgb(240, 158, 170);
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+
+}
+
+.pie2 {
+    background-color: rgb(233, 158, 170);
+    margin-bottom: 0%;
+    padding: 0%;
+    text-align: center;
+}
+
+/*Borde del formulario, fue modificado usando bootstrap*/
+#exampleFormControlTextarea1 {
+    background-color: rgba(255, 192, 203, 0.473);
+    border-color: blue;
+}
+
+#exampleFormControlInput1 {
+    border-color: blue;
+    background-color: rgba(255, 192, 203, 0.473);
+}
+
+/*modifique como se alineaban las opciones de contacto con flex*/
+.detalle0 {
+    display: flex;
+    flex-direction: column 217px, 320px;
+}
